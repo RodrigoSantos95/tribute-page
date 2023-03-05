@@ -1,0 +1,17 @@
+body {
+    background-color: antiquewhite;
+    font-family: 'Raleway', sans-serif;
+}
+
+main {
+    background-color: rgb(236, 240, 191);
+    border-radius: 5px;
+}
+
+#title {
+    text-align: center;
+}
+
+#subtitle{
+    text-align: center;
+}
