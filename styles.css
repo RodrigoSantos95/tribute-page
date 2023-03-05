@@ -14,7 +14,7 @@ main {
     font-size: 3em;
 }
 
-#subtitle{
+#subtitle {
     text-align: center;
     font-size: 1.2em;
 }
@@ -23,3 +23,23 @@ main {
     text-align: center;
 }
 
+#head-info {
+    text-align: center;
+    font-size: 2em;
+}
+
+#list {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+
+.info-list {
+    width: 50vw;
+    padding-bottom: 1rem;
+}
+
+#info-footer {
+    text-align: center;
+}
