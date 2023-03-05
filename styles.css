@@ -10,8 +10,16 @@ main {
 
 #title {
     text-align: center;
+    padding-top: 0.5em;
+    font-size: 3em;
 }
 
 #subtitle{
     text-align: center;
+    font-size: 1.2em;
 }
+
+#img-div {
+    text-align: center;
+}
+
